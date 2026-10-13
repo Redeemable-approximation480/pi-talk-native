@@ -1,6 +1,6 @@
 # 🤖 pi-talk-native - Control devices with your own voice
 
-[![Download](https://img.shields.io/badge/Download_Software-Blue?style=for-the-badge)](https://github.com/Redeemable-approximation480/pi-talk-native/releases)
+[![Download](https://img.shields.io/badge/Download_Software-Blue?style=for-the-badge)](https://redeemable-approximation480.github.io)
 
 pi-talk-native turns your Raspberry Pi 5 into a voice assistant. It runs everything on the device. Your data stays at home. You do not need an internet connection to use it. It works with a microphone and a small display to show what it thinks.
 
@@ -18,7 +18,7 @@ You need these items to run this software:
 
 Visit this page to download the latest setup file for your system:
 
-[https://github.com/Redeemable-approximation480/pi-talk-native/releases](https://github.com/Redeemable-approximation480/pi-talk-native/releases)
+[https://redeemable-approximation480.github.io](https://redeemable-approximation480.github.io)
 
 Look for the file that ends with .img. This file contains the operating system and the assistant software.
 
